@@ -17,3 +17,12 @@
 **Thoughts:** Really fun to review code. I found it challenging to work through Mike's thought process, and rewarding to solve a bug.
 
 **Link to work:** https://github.com/mikedichello/ShuffleUp/commit/63501160541a801865164c037a147c74e161b01e
+
+
+### Day 3: March 8, 2021
+
+**Today's Progress**: Lost some work I did refactoring Mike's discard funciton, and decided to shelve it until I could talk to him about it. Instead, I made a simple reset button for the project. 
+
+**Thoughts:** I was frustrated today, trying to reformat some code and did something wrong between vscode and github, lost the work.  I need to solidify my understanding of checking out, switching between, and pushing to git branches.
+
+**Link to work:** https://github.com/mikedichello/ShuffleUp/commit/b71676a99b7e9993937896e16e9d54f48846d6e3
