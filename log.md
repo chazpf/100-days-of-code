@@ -26,3 +26,11 @@
 **Thoughts:** I was frustrated today, trying to reformat some code and did something wrong between vscode and github, lost the work.  I need to solidify my understanding of checking out, switching between, and pushing to git branches.
 
 **Link to work:** https://github.com/mikedichello/ShuffleUp/commit/b71676a99b7e9993937896e16e9d54f48846d6e3
+
+### Day 4: March 9, 2021
+
+**Today's Progress**: Really dug into the organization of the code for the ShuffleUp project. Moved around a few things, and broke up functions to more useful bites. Wrote a bit of new code that improved what I did yesterday.
+
+**Thoughts:** I love organizing code. Hopefully I'm not stepping on my co-coder's toes at all, but it's in the spirit of refining and iterating.
+
+**Link to work:** https://github.com/mikedichello/ShuffleUp/commit/2a1963ad4e67e78bcf60b12d02f4e6523951e71a
