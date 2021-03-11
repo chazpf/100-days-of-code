@@ -34,3 +34,11 @@
 **Thoughts:** I love organizing code. Hopefully I'm not stepping on my co-coder's toes at all, but it's in the spirit of refining and iterating.
 
 **Link to work:** https://github.com/mikedichello/ShuffleUp/commit/2a1963ad4e67e78bcf60b12d02f4e6523951e71a
+
+### Day 5: March 10, 2021
+
+**Today's Progress**: Created some important data structures for the ShuffleUp program together with Mike today. We worked our way through creating the Deck and Card classes. We can now take a decklist, feed it to the Deck constructor function, and it will create a deck object and all the card objects needed to populate the deck.
+
+**Thoughts:** Great session of peer programming with Mike. First time we really coding together on the same screen, and it was really helpful to bounce ideas off each other over the abstraction of these classes and objects.
+
+**Link to work:** https://github.com/mikedichello/ShuffleUp/commit/7dd909769a617f4e0b5de01f3450bc1d0eeb7380
