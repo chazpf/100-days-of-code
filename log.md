@@ -21,7 +21,7 @@
 
 ### Day 3: March 8, 2021
 
-**Today's Progress**: Lost some work I did refactoring Mike's discard funciton, and decided to shelve it until I could talk to him about it. Instead, I made a simple reset button for the project. 
+**Today's Progress**: Lost some work I did refactoring Mike's discard function, and decided to shelve it until I could talk to him about it. Instead, I made a simple reset button for the project. 
 
 **Thoughts:** I was frustrated today, trying to reformat some code and did something wrong between vscode and github, lost the work.  I need to solidify my understanding of checking out, switching between, and pushing to git branches.
 
@@ -42,3 +42,11 @@
 **Thoughts:** Great session of peer programming with Mike. First time we really coding together on the same screen, and it was really helpful to bounce ideas off each other over the abstraction of these classes and objects.
 
 **Link to work:** https://github.com/mikedichello/ShuffleUp/commit/7dd909769a617f4e0b5de01f3450bc1d0eeb7380
+
+### Day 6: March 11, 2021
+
+**Today's Progress**: Created a text parser to take the user's decklist as input and convert it to the array structure needed for the deck object. Also integrated the new class structure we made yesterday with the rest of our codebase.
+
+**Thoughts:** The first successful merge of the project, this was a momentous occasion. We worked on a seperate branch to expand the data structures and integrate them, and merge after testing that it worked as expected. Very rewarding.
+
+**Link to work:** https://github.com/mikedichello/ShuffleUp/commit/84225cef9b34ef3d3bda14b923e165bf4d75e720
