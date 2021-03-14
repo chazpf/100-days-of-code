@@ -50,3 +50,18 @@
 **Thoughts:** The first successful merge of the project, this was a momentous occasion. We worked on a seperate branch to expand the data structures and integrate them, and merge after testing that it worked as expected. Very rewarding.
 
 **Link to work:** https://github.com/mikedichello/ShuffleUp/commit/84225cef9b34ef3d3bda14b923e165bf4d75e720
+
+### Day 7: March 12, 2021
+
+**Today's Progress**: Started Udemy class on Node.js. Downloaded Node and learned some basics about how it works. I also got it installed on a raspberry pi that I intend to make into a webserver for a project in the future.
+
+**Thoughts:** Very little to show for today's work, but I'm very excited for this class. 
+
+
+### Day 8: March 13, 2021
+
+**Today's Progress**: Continued Node.js class and learned about file manipulation. Also created my first test web server in node.
+
+**Thoughts:** Finally learning backend stuff I've been hearing about for a couple months. Already seeing how it opens the doors wide open on what I can do.
+
+**Link to work:** https://github.com/chazpf/complete-node-bootcamp/commit/78d1c55939d5d8284474ae1d7ff11f9de6b63bac
